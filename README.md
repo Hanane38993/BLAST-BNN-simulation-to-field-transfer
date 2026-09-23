@@ -59,7 +59,7 @@ python BLAST_BNN_Paper2_FINAL.py \
 
 Reference mode uses the frozen paper predictions for all four models so that the manuscript results are reproduced consistently across software environments.
 
-## Citation
+## Citation 
 
 If you use this repository, please cite:
 
