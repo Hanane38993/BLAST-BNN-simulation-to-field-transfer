@@ -61,6 +61,14 @@ Reference mode uses the frozen paper predictions for all four models so that the
 
 ## Citation
 
-Please cite the associated manuscript when using this repository. Full bibliographic information will be added after publication.
+## Citation
+
+If you use this repository, please cite:
+
+GOUDJIL, H. (2026). *BLAST-BNN Simulation-to-Field Transfer v1.0.0* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22917484
+
+Repository archive:
+
+https://doi.org/10.5281/zenodo.22917484
 
 ```
