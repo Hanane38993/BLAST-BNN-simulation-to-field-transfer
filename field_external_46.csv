@@ -1,0 +1,47 @@
+study,case_id,charge_weight_kg,distance_m,observed_ppv_mm_s,charge_basis,ppv_basis,source_url
+Liu 2023,LIU-2023-01,55.0,65.98,21.978,Reported charge weight; workbook notes maximum single-shot charge,Maximum of the three measured directional vibration-velocity components,https://www.extrica.com/article/22826
+Liu 2023,LIU-2023-02,55.0,80.83,18.05,Reported charge weight; workbook notes maximum single-shot charge,Maximum of the three measured directional vibration-velocity components,https://www.extrica.com/article/22826
+Liu 2023,LIU-2023-03,55.0,110.73,13.786000000000001,Reported charge weight; workbook notes maximum single-shot charge,Maximum of the three measured directional vibration-velocity components,https://www.extrica.com/article/22826
+Borneo 2024,BIB-2024-SHA1,58.5,180.0,16.2,Signature-hole charge,Maximum of three measured PPV components,https://www.nature.com/articles/s41598-024-81784-2
+Borneo 2024,BIB-2024-SHA2,71.4,160.0,20.5,Signature-hole charge,Maximum of three measured PPV components,https://www.nature.com/articles/s41598-024-81784-2
+Borneo 2024,BIB-2024-SHA3,65.5,140.0,22.4,Signature-hole charge,Maximum of three measured PPV components,https://www.nature.com/articles/s41598-024-81784-2
+Borneo 2024,BIB-2024-SHA4,70.6,120.0,13.6,Signature-hole charge,Maximum of three measured PPV components,https://www.nature.com/articles/s41598-024-81784-2
+Borneo 2024,BIB-2024-SHA5,70.6,100.0,34.0,Signature-hole charge,Maximum of three measured PPV components,https://www.nature.com/articles/s41598-024-81784-2
+Limestone 2025,LIME-2025-01,106.0,18.0,194.0,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-02,106.0,25.0,112.4,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-03,106.0,26.0,105.3,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-04,50.2,12.6,264.5,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-05,50.2,15.0,197.7,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-06,57.4,13.5,148.4,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-07,57.4,18.0,92.0,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-08,57.4,14.0,139.70000000000002,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-09,84.39,20.0,134.70000000000002,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-10,84.39,10.0,426.4,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-11,84.39,30.0,68.7,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-12,115.5,25.8,81.8,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-13,115.5,14.0,225.9,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-14,115.5,18.0,148.8,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-15,67.24,13.0,179.60000000000002,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-16,67.24,17.0,115.0,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-17,50.43,17.5,109.60000000000001,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-18,55.75,12.6,206.20000000000002,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-19,55.75,15.0,154.1,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-20,55.75,18.0,113.80000000000001,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-21,64.8,21.0,99.80000000000001,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-22,64.8,13.0,221.4,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-23,64.8,20.0,108.2,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-24,129.6,20.0,151.5,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-25,129.6,10.0,479.5,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-26,129.6,10.0,479.5,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-27,118.71,18.0,213.1,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-28,118.71,22.0,152.7,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-29,118.71,15.0,288.6,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-30,167.55,14.5,406.70000000000005,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-31,167.55,31.0,115.0,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-32,167.55,12.6,514.3,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-33,141.44,13.0,423.6,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-34,141.44,16.0,300.0,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-35,141.44,30.0,105.5,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-36,141.5,25.0,142.89999999999998,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-37,141.5,20.0,207.0,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
+Limestone 2025,LIME-2025-38,141.5,21.0,190.9,Qmax reported in Table 2,Published PPV,https://www.nature.com/articles/s41598-025-90242-6
