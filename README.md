@@ -56,7 +56,7 @@ The original Zenodo v1.0.0 archive remains the record of the originally submitte
 - `numerical_test_predictions_paper.csv` — frozen numerical-test predictions used for exact manuscript reproduction.
 - `requirements.txt` — Python dependencies.
 - `LICENSE` — software/data license supplied with the original archive.
-- `outputs/` — revised summary files, main/supplementary tables, and PNG/PDF figures.
+- Running the revised script creates an `outputs/` directory containing the revised summary files, tables, and PNG/PDF figures.
 
 ## Exact revised-manuscript reproduction
 
