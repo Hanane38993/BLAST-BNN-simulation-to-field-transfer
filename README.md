@@ -82,8 +82,14 @@ No external field PPV observation is used for model training, preprocessing, hyp
 
 ## Public archive
 
-Original archive DOI: https://doi.org/10.5281/zenodo.22917484
+Revised peer-review version (v1.1.0):
+https://doi.org/10.5281/zenodo.24416640
 
-Development repository: https://github.com/Hanane38993/BLAST-BNN-simulation-to-field-transfer
+Original submitted version (v1.0.0):
+https://doi.org/10.5281/zenodo.22917484
 
-The original v1.0.0 archive should remain preserved. After journal resubmission, this revised package can be archived as a new version if desired.
+All versions:
+https://doi.org/10.5281/zenodo.22917483
+
+Development repository:
+https://github.com/Hanane38993/BLAST-BNN-simulation-to-field-transfer
